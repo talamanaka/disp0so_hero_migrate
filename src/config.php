@@ -20,7 +20,8 @@ error_reporting(E_ALL);
 //$hostname = '{imap.gmail.com:993/ssl/novalidate-cert}[Gmail]/All Mail';
 // $config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}[Gmail]/All Mail';
 
-$config['imap']['url'] = '{imap.gmail.com:993/ssl/novalidate-cert}[Gmail]/All Mail';
+//$config['imap']['url'] = '{imap.gmail.com:993/ssl/novalidate-cert}[Gmail]/All Mail';
+$config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}[Gmail]/All Mail';
 $config['imap']['username'] = "binhunt3r@gmail.com";
 $config['imap']['password'] = "agoon007";
 
