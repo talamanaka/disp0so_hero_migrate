@@ -8,12 +8,12 @@ $config['locale'] = 'en_US';
 
 
 // enable in production:
-error_reporting(1);
+error_reporting(0);
 
 // enable while testing:
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+//ini_set('display_errors', 1);
+//ini_set('display_startup_errors', 1);
+//error_reporting(E_ALL);
 
 
 // Change IMAP settings (check SSL flags on http://php.net/manual/en/function.imap-open.php)king00binz@gmail.com
