@@ -17,7 +17,7 @@ error_reporting(E_ALL);
 
 
 // Change IMAP settings (check SSL flags on http://php.net/manual/en/function.imap-open.php)king00binz@gmail.com
-$config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}';
+$config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}[Gmail]/All Mail';
 $config['imap']['username'] = "binhunt3r@gmail.com";
 $config['imap']['password'] = "agoon007";
 
