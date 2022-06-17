@@ -39,7 +39,7 @@ $config['domains'] = array('r0b-in.nl.eu.org');
 $config['delete_messages_older_than'] = '30 days ago';
 
 
-// Mails to those usernames can not be accessed:
+// Mails to those usernames can not be accessed: m
 $config['blocked_usernames'] = array('root', 'admin', 'administrator', 'hostmaster', 'postmaster', 'webmaster');
 
 // Mails are usually show as Text and only if not available as HTML. You can turn this around to prefer HTML over text.
