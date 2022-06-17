@@ -26,7 +26,7 @@ error_reporting(0);
 
 $config['imap']['url'] = '{imap.gmail.com:993/imap/ssl}';
 $config['imap']['username'] = "binhunt3r@gmail.com";
-$config['imap']['password'] = "uuodsfrougytcafa";
+$config['imap']['password'] = "kuqielkdzdyufpfb";
 
 // For gmail you can use '{imap.gmail.com:993/imap/ssl}INBOX'
 // and follow the troubleshooting at:
